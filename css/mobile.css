@@ -1,0 +1,31 @@
+@media (max-width: 600px) {
+    .procucts{
+        display: inherit;
+        height: auto;
+    }
+    .product{
+        margin-top: auto;
+    }
+    .main_section{
+        padding: 4%;
+    }
+    .caracteristicas{
+        display: inherit;
+        text-align: center;
+    }
+    .meciones_tarjetas{
+        display: inherit;
+        justify-content:center;
+        margin: 0 140px 0 140px;
+    }
+    .tarjeta{
+        margin: 15px;
+    }
+    .cont{
+        background-color: var(--white-color);
+        /* width: 230px; */
+        width: 100%;
+        box-shadow: 0px 0px 8px #c1bcbc;
+        border-radius: 2px;
+    }
+}
